@@ -95,11 +95,13 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     padding: 10,
     margin: 10,
+    backgroundColor: "red"
   },
   buttonText: {
     textAlign: 'center',
     fontSize: 30,
     fontWeight: 'bold',
+    color:"white"
   },
   imageIcon: {
     width: 150,
